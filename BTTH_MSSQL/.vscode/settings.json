@@ -1,0 +1,34 @@
+{
+  "sqltools.connections": [
+    {
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": true
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 1433,
+      "driver": "MSSQL",
+      "name": "BT1",
+      "database": "DB_QLBH",
+      "username": "sa",
+      "password": "Trung@123"
+    },
+    {
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": true
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 1433,
+      "driver": "MSSQL",
+      "name": "BT2",
+      "database": "DB_QLGV",
+      "username": "sa",
+      "password": "Trung@123"
+    }
+  ]
+}
